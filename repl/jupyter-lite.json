@@ -7,7 +7,7 @@
         "jupyterlab-tour",
         "@jupyterlab/launcher-extension"
       ],
-      "appUrl": "./notebook"
+      "appUrl": "./tree"
     }
   }
   
