@@ -5,4 +5,4 @@ notebook==7.4.3
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.6.1
 
-#requests==2.32.2
+requests==2.32.2
